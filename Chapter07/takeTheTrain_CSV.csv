@@ -1,0 +1,4 @@
+//Question Type,//Points,//Question Stem,//Answer Option 1,//Answer Option 2,//Answer Option 3,//Answer Option 4,//Answer Option 5,//Answer Option 6,//Answer Option 7,//Answer Option 8,//Answer Option 9,//Answer Option 10,//Answer Option 11,//Answer Option 12,//Answer Option 13,//Answer Option 14,//Answer Option 15
+MAT,10,Match the type of train with the corresponding description,L Trains|Local trains are the only way to reach rural areas.,IC Trains|Inter City trains run only between major cities.,P Trains|Peak trains only run during peak hours,,,,,,,,,,,,
+SA,10,"What type of train only runs during peak hours? (choose between L , IC or P)",P,,,,,,,,,,,,,,
+TF,10,It is necessary to make a reservation when traveling on Belgian trains.,TRUE,*FALSE,,,,,,,,,,,,,

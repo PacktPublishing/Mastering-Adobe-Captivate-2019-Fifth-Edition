@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 36 36" height="128" width="128" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <circle id="exit-b" cx="18" cy="18" r="16"/>
+    <filter id="exit-a" width="118.8%" height="118.8%" x="-9.4%" y="-9.4%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="128" height="128" fill="#03FF00" opacity="0"/>
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000" filter="url(#exit-a)" xlink:href="#exit-b"/>
+    <circle cx="18" cy="18" r="15" fill="#000" stroke="#FFF" stroke-linejoin="square" stroke-width="2"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M17,19.5 L17,16.5 C17,16.2238576 17.2238576,16 17.5,16 L24,16 L24,11.5 C24,11.2238576 23.7761424,11 23.5,11 L11.5,11 C11.2238576,11 11,11.2238576 11,11.5 L11,24.5 C11,24.7761424 11.2238576,25 11.5,25 L23.5,25 C23.7761424,25 24,24.7761424 24,24.5 L24,20 L17.5,20 C17.2238576,20 17,19.7761424 17,19.5 Z"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M25,14.6 L25,17 L18.25,17 C18.1119288,17 18,17.1119288 18,17.25 L18,18.75 C18,18.8880712 18.1119288,19 18.25,19 L25,19 L25,21.4 C24.9998188,21.5012544 25.0607314,21.5926192 25.1542684,21.6313922 C25.2478053,21.6701651 25.3554929,21.6486884 25.427,21.577 L28.957,18 L25.427,14.427 C25.3560091,14.3558094 25.2492796,14.3340707 25.1560992,14.3718229 C25.0629188,14.4095751 25.0014188,14.4994724 25,14.6 Z"/>
+  </g>
+</svg>

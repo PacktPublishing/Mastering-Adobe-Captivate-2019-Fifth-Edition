@@ -1,0 +1,19 @@
+// question: 1  name: Matching
+::Matching::Match the type of train with the corresponding description{
+	=L Train -> Local trains are the only way to reach rural areas.
+	=IC train -> Inter City trains run only between major cities.
+	=P train -> Peak trains only run during peak hours
+	= -> T trains are for tourists only
+}
+
+
+// question: 2  name: Short Answer
+::Short Answer::What type of train only runs during peak hours? (choose between L , IC or P){
+	=%100%P#Yes! you're right! - Click anywhere or press ‘y’ to continue.
+}
+
+
+// question: 3  name: True / False
+::True / False::It is necessary to make a reservation when traveling on Belgian trains.{FALSE#You are right! Feel free to take any domestic train. Just keep in mind that some international trains may require a reservation - Click anywhere or press ‘y’ to continue.#Sorry your answer is not right. Domestic trains within Belgium do not require an advance reservation. - Click anywhere or press ‘y’ to continue.}
+
+
