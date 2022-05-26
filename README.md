@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B12530?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Mastering Adobe Captivate 2019 - Fifth Edition
 
 <a href="https://www.packtpub.com/hardware-and-creative/mastering-adobe-captivate-2019-fifth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789803051"><img src="https://www.packtpub.com/sites/default/files/cover_12530.png" alt="Mastering Adobe Captivate 2019" height="256px" align="right"></a>
